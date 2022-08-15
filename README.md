@@ -1,0 +1,2 @@
+# Summarizer
+Python based summarizer
